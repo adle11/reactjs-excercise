@@ -1,0 +1,4 @@
+frontend/node_modules/
+lib-backend/node_modules/
+lib-backend/resources/jwt_secret.txt
+.vscode/settings.json
