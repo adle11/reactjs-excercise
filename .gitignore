@@ -1,4 +1,4 @@
-lib-frontend/node_modules/
-lib-backend/node_modules/
-lib-backend/resources/jwt_secret.txt
+mylibrary-fe/node_modules/
+mylibrary-be/node_modules/
+mylibrary-be/resources/jwt_secret.txt
 .vscode/settings.json
